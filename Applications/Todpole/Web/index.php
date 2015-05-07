@@ -26,7 +26,7 @@ if(!function_exists('is_mobile'))
 <html>
 	<head>
 		<meta charset="utf-8">
-		<title>Workerman小蝌蚪互动聊天室 HTML5+Websocket+PHP多进程socket实时推送技术</title>
+		<title> 大学城蝌蚪聊天室</title>
 		<link rel="stylesheet" type="text/css" href="css/main.css" />
 		<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; minimum-scale=1.0; user-scalable=0;" />		
     <meta name="apple-mobile-web-app-capable" content="YES">
@@ -45,7 +45,7 @@ if(!function_exists('is_mobile'))
 		
 			<input id="chat" type="text" />
 			<div id="chatText"></div>
-			<h1>workerman</h1>
+			<h1>请使用非企鹅浏览器打开蝌蚪聊天室</h1>
 		<?php if(!is_mobile()){?>
 			<div id="instructions">
 				<h2>介绍</h2>
