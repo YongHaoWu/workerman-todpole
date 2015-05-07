@@ -45,7 +45,7 @@ if(!function_exists('is_mobile'))
 		
 			<input id="chat" type="text" />
 			<div id="chatText"></div>
-			<h1>请使用非企鹅浏览器打开蝌蚪聊天室</h1>
+			<h1></h1>
 		<?php if(!is_mobile()){?>
 			<div id="instructions">
 				<h2>介绍</h2>
